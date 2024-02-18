@@ -1,8 +1,7 @@
-## Visualize AI/ML Model Results using Flask and AWS Elastic Beanstalk
+## Deployment of Machine Learning Model Results using Flask and AWS Elastic Beanstalk
+The repository presents the deployment of the prediction of student exam performance.
 
-
-
-
+# Steps for the implementation 
 
 
 
