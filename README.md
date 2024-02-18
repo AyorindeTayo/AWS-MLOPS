@@ -3,8 +3,8 @@ The repository presents the deployment of the prediction of student exam perform
 
 ## Steps for the implementation 
 - Sign into an AWS account with administrative privileges.
-- Create Elastic Beanstalk and the environment for dep[louyment
-- Use the AWS CodePipeline to automate the delivery of your code from GitHub to was cloud. It also helps with the configuration of the different stages of the web app
+- Create Elastic Beanstalk and the environment for deployment
+- Use the AWS CodePipeline to automate the delivery of your code from GitHub to the Cloud. It also helps with the configuration of the different stages of the web app
 ## Flow Chart
 ![Imgur](https://imgur.com/GtoJpBN.png)
 
